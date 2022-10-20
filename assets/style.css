@@ -1,0 +1,155 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    background-color: black;
+    width: 100%;
+    height: 10vh;
+    opacity: 0.6;
+    position:fixed;
+    
+}
+
+.div{
+    width: 77%;
+    margin: 0 auto;
+    height: 10vh;
+
+    
+}
+
+.h3{
+    float: left;
+    color: whitesmoke;
+    font-family: sans-serif;
+    padding-top: 2%;
+    font-weight: 900;
+}
+
+.ul{
+    display: inline;
+}
+.li{
+    
+    color: #ad9395;
+    float: right;
+    padding-top: 2%;
+    margin-left: 9px;
+    font-family: sans-serif;
+    font-weight: 900;
+    list-style: none;   
+}
+
+.img{
+    background-image: url(redcer.jpg);
+    width: 100%;
+    height: 90vh;
+}
+
+.p{
+    text-align: center;
+    color: azure;
+    padding-top: 15%;
+    font-size: 700%;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+
+.p1{
+    text-align: center;
+    color: azure;
+    font-size: 500%;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+ .btn{ 
+    text-align: center;
+    margin-top: 2%;
+    
+ }
+
+ .button{
+    width: 14%;
+    height: 10vh;
+    background-color: #EE0979;
+    color: azure;
+    border: none;
+    border-radius: 25%;
+    font-family: sans-serif;
+    font-size: 120%;
+    font-weight: 800;
+ }
+
+ .div1{
+    display: flex;
+ }
+
+ .p2{
+    font-size: 350%;
+    font-weight: 400;
+    margin-right: 30%;
+    margin-top: 8%;
+    margin-left: 30%;
+ }
+
+ .p3{
+    margin-right: 30%;
+    margin-top: 1%;
+    margin-left: 30%;
+    font-size: 150%;
+ }
+
+ .xanim{
+    float: right;
+    border-radius: 50%;
+    padding-top: 5%;
+    height: 70%;
+    margin-right: 32%;
+ }
+
+ .qaqa{
+    float: left;
+    border-radius: 50%;
+    height: 70%;
+    margin-left: 32%;
+
+ }
+
+ .p4{
+    font-size: 350%;
+    font-weight: 400;
+    margin-left: 35%;
+    margin-right: 25%;
+    padding-top: 9%;
+    
+    
+ }
+
+ .p5{
+    font-size: 150%;
+    margin-left: 35%;
+    margin-right: 25%;
+   margin-top: 5%;
+ }
+
+ .fd{
+    width: 100%;
+    height: 20vh;
+    background-color: black;
+ }
+
+ .p6{
+    text-align: center;
+    color: beige;
+    font-family: sans-serif;
+    padding-top: 4%;
+    font-size: 120%;
+ }
+
+ .hov:hover{
+    color: grey;
+    transition: 0.5s;
+ }
